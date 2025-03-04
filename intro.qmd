@@ -1,0 +1,21 @@
+# Inflation：Its Causes, Effects, and Social Costs
+
+::: {.callout-tip}
+## John Maynard keynes spoke
+Lenin is said to have declared that the best way to destroy the Capitalist System was to debauch the currency. … Lenin was certainly right. There is no subtler, no surer means of overturning the existing basis of society than to debauch the currency. The progress engages all the hidden forces of economic law on the side of destruction, and does it in a manner which not one man in a million is able to diagnose.
+
+:::
+
+From 1970 to 2020, the price of the daily *New York* Times rose from 15 cents to $3, the price of a dozen eggs rose from 60 cents to $1.60, the median price of houses sold in the United States rose from $23,500 to $327,100, and the average wage paid to production workers rose from $3.40 to $24 per hour. This overall increase in prices, called inflation, is the subject of this chapter.
+
+The rate of inflation - the percentage change in the overall level of prices - various greatly over time and across countries. In the United States, according to the consumer price index, prices rose at an average annual rate of 2.3 percent in the 1960s, 7.1 percent in the 1970s, 5.6 percent in the 1980s, 3.0 percent in the 1900s, and 2.1 percent from 2000 to 2019. Even when the U.S. inflation problem became severe during the 1970s, however, it was nothing compared to the episodes of extraordinarily high inflation, called hyperinflation, that other countries have experienced from time to time. A classic example is Germany in 1923, when prices increased an average of 500 percent *per* month. More recently, similar examples of extraordinary inflation have gripped the nations of Zimbabwe in 2008, Venezuela in 2017, and Zimbabwe again in 2020. 
+
+In this chapter, we examine the classical theory of the causes, effects, and social costs of inflation. The theory is “classical” in the sense that it assumes that prices are flexible. The theory is “classical” in the sense that it assumes that prices are flexible. As discussed in Chapter 1, most economists believe this assumption describes the behavior of the economy in the long run. By contrast, many prices are thought to be sticky in the short run, and beginning in Chapter 11, we incorporate this fact into our analysis. For now, we ignore short-run price stickiness. As we will see, the classical theory of inflation provides a good description of the long run and a useful foundation for the short-run analysis we develop later.
+
+The “hidden forces of economic law” that cause inflation are not as mysterious as Keynes claims in the quotation that opens this chapter. Inflation is simply an increase in average prices, and a price is the rate at which money is exchanged for a good or a service. To understand inflation, we must understand money - what it is, what affects its supply and demand, and what influence it has on the economy. In the pervious chapter, we introduced the economist’s concept of “money” and discussed how, in most modern economies, a central bank set up by the government controls the quantity of money in the hands of the public. This chapter begins in Section 5-1 by showing that **the quantity of money determines the price level** and that **the rate of growth in the quantity of money determines the rate of inflation**.
+
+Inflation in turn has numerous effects of its own on the economy. Section 5-2 discusses the revenue that government can raise by printing money, sometimes called the *inflation* tax. Section 5-3 examines how inflation affects the nominal interest rate. Section 5-4 discusses how the nominal interest rate affects the quantity of money people wish to hold and, thereby, the price level.
+
+After analyzing the 
+
+
